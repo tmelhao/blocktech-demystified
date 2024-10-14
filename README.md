@@ -1,5 +1,5 @@
-# Blockchain-Technology-Explained
-Blockchain Explained: Fundamentals of Blockchain Technology
+# Demystifying OP Stack: Strategies and Market Plans Explained
+-From the perspective of a influencer, contributing to the governance of OP Stack.
 ## About Me
 
 I am an independent blockchain researcher focused on interpreting cutting-edge blockchain technology from the perspective of technology and business. Currently, I have accumulated over 100,000 followers across various Chinese media platforms, including Twitter, Substack, and Binance Square, with exposure of tens of millions for my professional technical analyses. I am recognized as a social influencer in the field.
