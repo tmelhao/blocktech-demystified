@@ -1,4 +1,4 @@
-# Demystifying OP Stack: Strategies and Market Plans Explained
+# Demystifying OP Stack: Strategies and Governance Plans Explained
 -From the perspective of a influencer, contributing to the governance of OP Stack.
 ## About Me
 
