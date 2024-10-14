@@ -48,3 +48,10 @@ In Retro 6, I believe I have provided valuable insights and research content for
 - **Why Did OP Stack Launch the Shared Sequencer Program?** 27K Views  [Link](https://x.com/tmel0211/status/1696012057202856154)
 
 - **The Reasons Behind Base and OP Stack's Partnership:** 3.6K Views   [Link](https://x.com/tmel0211/status/1694900067881390429)
+
+### My Social Media Channel
+
+- Twitter Profile: https://x.com/tmel0211
+- Substack website: https://haotiancryptoinsight.substack.com
+- Binance Square: https://www.binance.com/en/square/profile/haotian
+
