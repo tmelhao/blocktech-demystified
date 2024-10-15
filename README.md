@@ -8,7 +8,7 @@ My media channels have published over a hundred professional articles that aim t
 
 ### Key Areas of Focus
 
-- Layer 1 public chains
+- Layer 1 
 - Layer 2 (DA, RaaS, Stack, etc.)
 - Modularization
 - Chain abstraction
