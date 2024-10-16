@@ -29,7 +29,7 @@ In Retro 6, I believe I have provided valuable insights and research content for
 
 ### Selected Articles
 
-- **The Real Reasons Behind OP Stack's Popularity in the Market:** 129K Views   [Link](https://x.com/tmel0211/status/1690922241196986368)
+- **The Real Reasons Behind OP Stack's Popularity in the Market：** 129K Views   [Link](https://x.com/tmel0211/status/1690922241196986368)
 
 - **The Reasons Behind the Implementation of Layer 2's Stack Strategy:** 24K Views   [Link](https://x.com/tmel0211/status/1690922241196986368)
 
@@ -49,7 +49,11 @@ In Retro 6, I believe I have provided valuable insights and research content for
 
 - **Why Did OP Stack Launch the Shared Sequencer Program?** 27K Views  [Link](https://x.com/tmel0211/status/1696012057202856154)
 
-- **The Reasons Behind Base and OP Stack's Partnership:** 3.6K Views   [Link](https://x.com/tmel0211/status/1694900067881390429)
+- **The Reasons Behind Base and OP Stack's Partnership：** 3.6K Views   [Link](https://x.com/tmel0211/status/1694900067881390429)
+
+- **The Evolution of the Layer 2 Market After the Cancun Upgrade：** 57K Views [Link]((https://x.com/tmel0211/status/1739477985756115178))
+
+-**Can the Layer 2 contract upgrade leverage the hierarchical adjudication system of arbitration courts?** 10k [Link](https://x.com/tmel0211/status/1698148896793624714)
 
 ### Expanded Scope of Contributions
 
