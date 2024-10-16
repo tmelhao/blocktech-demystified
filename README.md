@@ -19,7 +19,7 @@ My media channels have published over a hundred professional articles that aim t
 - BTCFi (AVM, RGB, Lightning Network)
 - Other cutting-edge technologies, including FHE and Blind Compute
 
-### Contributions
+### Contributions related to OP Stack
 
 Since the launch of OP Stack, I have written a series of articles covering various aspects, including the commercial landing of OP Stack, interpretations of partnerships, technical practice upgrades, and visions for the future of Superchain. As a social influencer, I aim to showcase the driving value of OP Stack in the Ethereum Layer 2 market while discussing issues like Fraud Proof and centralized Sequencers.
 
@@ -48,6 +48,11 @@ In Retro 6, I believe I have provided valuable insights and research content for
 - **Why Did OP Stack Launch the Shared Sequencer Program?** 27K Views  [Link](https://x.com/tmel0211/status/1696012057202856154)
 
 - **The Reasons Behind Base and OP Stack's Partnership:** 3.6K Views   [Link](https://x.com/tmel0211/status/1694900067881390429)
+
+### Other Contributions for the industry
+
+- **BTC layer2**:btc-layer2-insights.md
+- **ETH layer2**https://github.com/tmelhao/blocktech-demystified/blob/main/eth-layer2-insights.md
 
 ### My Social Media Channel
 
