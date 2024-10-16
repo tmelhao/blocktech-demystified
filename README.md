@@ -52,8 +52,9 @@ In Retro 6, I believe I have provided valuable insights and research content for
 - **The Reasons Behind Base and OP Stack's Partnership：** 3.6K Views   [Link](https://x.com/tmel0211/status/1694900067881390429)
 
 - **The Evolution of the Layer 2 Market After the Cancun Upgrade：** 57K Views [Link]((https://x.com/tmel0211/status/1739477985756115178))
+  
+- **Can the Layer 2 contract upgrade leverage the hierarchical adjudication system of arbitration courts?** 10k Views [Link](https://x.com/tmel0211/status/1698148896793624714)
 
--**Can the Layer 2 contract upgrade leverage the hierarchical adjudication system of arbitration courts?** 10k [Link](https://x.com/tmel0211/status/1698148896793624714)
 
 ### Expanded Scope of Contributions
 
