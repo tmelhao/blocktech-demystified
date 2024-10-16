@@ -2,9 +2,11 @@
 -From the perspective of an influencer, contributing to the governance of OP Stack.
 ## About Me
 
-I am an independent blockchain researcher focused on interpreting cutting-edge blockchain technology from the perspective of technology and business. Currently, I have accumulated over 100,000 followers across various Chinese media platforms, including Twitter, Substack, and Binance Square, with exposure of tens of millions for my professional technical analyses. I am recognized as a social influencer in the field.
+I am an independent blockchain researcher focused on interpreting cutting-edge blockchain technology from the perspective of technology and business. Currently, I have accumulated over 100,000 followers across various Chinese media platforms, including Twitter, Substack, and Binance Square, with exposure of tens of millions for my professional technical analyses. My professional technical analyses have reached tens of millions of viewers, establishing me as a recognized social influencer in the blockchain domain.
 
-My media channels have published over a hundred professional articles that aim to simplify abstract and complex technical concepts, helping a broader audience to understand the intricate logic behind blockchain technology, thereby enabling them to better identify quality projects.
+Across my media channels, I've published more than a hundred professional articles. These pieces aim to demystify abstract and complex technical concepts, making blockchain technology more accessible to a broader audience. By simplifying the intricate logic behind blockchain innovations, my work enables readers to better identify and evaluate quality projects in this rapidly evolving field.
+
+My mission is to bridge the gap between advanced blockchain technology and public understanding, fostering informed engagement with this transformative technology.
 
 ### Key Areas of Focus
 
