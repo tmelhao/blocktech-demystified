@@ -51,8 +51,8 @@ In Retro 6, I believe I have provided valuable insights and research content for
 
 ### Other Contributions for the industry
 
-- **BTC layer2**:btc-layer2-insights.md
-- **ETH layer2**https://github.com/tmelhao/blocktech-demystified/blob/main/eth-layer2-insights.md
+- **BTC layer2**:[btc-layer2-insights.md](https://github.com/tmelhao/blocktech-demystified/blob/main/btc-layer2-insights.md)
+- **ETH layer2**:https://github.com/tmelhao/blocktech-demystified/blob/main/eth-layer2-insights.md 
 
 ### My Social Media Channel
 
