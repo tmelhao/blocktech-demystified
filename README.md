@@ -49,11 +49,12 @@ In Retro 6, I believe I have provided valuable insights and research content for
 
 - **The Reasons Behind Base and OP Stack's Partnership:** 3.6K Views   [Link](https://x.com/tmel0211/status/1694900067881390429)
 
-### Other Contributions for the industry
+### Other more Contributions
 
-- **BTC layer2**:[btc-layer2-insights.md](https://github.com/tmelhao/blocktech-demystified/blob/main/btc-layer2-insights.md)
-- **ETH layer2**:https://github.com/tmelhao/blocktech-demystified/blob/main/eth-layer2-insights.md 
-
+- **BTC layer2**: https://github.com/tmelhao/blocktech-demystified/blob/main/btc-layer2-insights.md
+- **ETH layer2**: https://github.com/tmelhao/blocktech-demystified/blob/main/eth-layer2-insights.md
+- **Vitalik article writeups** https://github.com/tmelhao/blocktech-demystified/blob/main/vitalik-vision-unpacked.md
+- 
 ### My Social Media Channel
 
 - Twitter Profile: https://x.com/tmel0211
