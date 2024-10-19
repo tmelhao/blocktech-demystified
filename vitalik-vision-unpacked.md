@@ -12,4 +12,4 @@
 
 - **The Reasons Behind Vitalik's Unwavering Support for zkNARKS:** 144K Views   [Link](https://x.com/tmel0211/status/1660528958113460224)
 
-- - **Vitalik calls for a contraction of Layer 2 boundaries. What does this mean for Ethereum?** 50K Views  [Link]((https://x.com/tmel0211/status/1846817052780384641)) 
+- - **Vitalik calls for a contraction of Layer 2 boundaries. What does this mean for Ethereum?** 43K Views  [Link](https://x.com/tmel0211/status/1846817052780384641)
