@@ -11,3 +11,11 @@
 - **Why Did Vitalik Propose to Abolish the Concept of Layer 2?** 80K Views   [Link](https://x.com/tmel0211/status/1747457520464261187)
 
 - **The Reasons Behind Vitalik's Unwavering Support for zkNARKS:** 144K Views   [Link](https://x.com/tmel0211/status/1660528958113460224)
+
+- - **Vitalik calls for a contraction of Layer 2 boundaries. What does this mean for Ethereum?** 144K Views   [Link]((https://x.com/tmel0211/status/1846817052780384641))
+
+
+
+
+
+https://x.com/tmel0211/status/1846817052780384641
