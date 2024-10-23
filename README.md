@@ -23,9 +23,7 @@ My mission is to bridge the gap between advanced blockchain technology and publi
 
 ### Contributions related to  the governance of OP Stack
 
-Since the launch of OP Stack, I have written a series of articles covering various aspects, including the commercial landing of OP Stack, interpretations of partnerships, technical practice upgrades, and visions for the future of Superchain. As a social influencer, I aim to showcase the driving value of OP Stack in the Ethereum Layer 2 market while discussing issues like Fraud Proof and centralized Sequencers.
-
-In Retro 6, I believe I have provided valuable insights and research content for OP Stack during every technological upgrade, market collaboration, and governance design process.
+Since the launch of OP Stack, I have authored a series of articles that emphasize my contributions to the governance aspects of OP. This includes correcting misinformation in the media, accurately interpreting OP's governance strategies, and analyzing how the governance structures of OP Stack are progressively implemented. 
 
 ### Optimism Governance related Analytics（Ranking of Relevance from Strong to Weak）
 
